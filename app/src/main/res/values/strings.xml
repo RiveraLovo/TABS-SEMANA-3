@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tasb1Raul</string>
+    <string name="Contacto">Contacto</string>
+    <string name="Correo">Correo</string>
+    <string name="Mensaje">Mensaje</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragcontac">Hola soy el fracmento de Contactos</string>
+    <string name="fragcorre">Hola soy el fracmento de Correos</string>
+    <string name="fragmensa">Hola soy el fracmento de Mensajes</string>
+
+</resources>
